@@ -1,0 +1,3 @@
+nombre = "Joselo"
+
+print(nombre)
